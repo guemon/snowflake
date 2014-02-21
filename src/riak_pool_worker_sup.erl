@@ -23,7 +23,7 @@ init([]) ->
             ],
             [
                 {ip_address, "127.0.0.1"},
-                {port_number, 8081}
+                {port_number, 8087}
             ]
         }
         %% {pool2,
